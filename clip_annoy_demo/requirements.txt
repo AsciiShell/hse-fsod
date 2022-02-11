@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+streamlit~=1.5.1
+clip @ git+https://github.com/openai/CLIP.git
+opencv-python==4.5.5.62
+matplotlib
+pandas>=1.0
+torch==1.10.2+cpu
+annoy>=1.17.0
