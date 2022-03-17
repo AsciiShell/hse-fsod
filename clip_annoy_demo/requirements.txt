@@ -1,5 +1,6 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 streamlit~=1.5.1
+streamlit-drawable-canvas
 clip @ git+https://github.com/openai/CLIP.git
 opencv-python==4.5.5.62
 matplotlib
