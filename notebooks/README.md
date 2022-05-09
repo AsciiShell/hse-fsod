@@ -10,5 +10,6 @@
 * `training_coco` - дообучение faster_rcnn модели на LVIS
 * `training_lvis` - дообучение mask_rcnn модели на LVIS
 * `yolo_demo` - ДЕМО для нахождения кропов по тексту
+* `yolo_demo_full` - ДЕМО для нахождения кропов по тексту, доразметки кропов и дообучения модели
 * `assh_utils` - Batch iterator, доп. функции
 * `yolo_utils` - CustomWrapper для Yolo с раскрученными порожками 
