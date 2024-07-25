@@ -5,5 +5,5 @@ clip @ git+https://github.com/openai/CLIP.git
 opencv-python==4.5.5.62
 matplotlib
 pandas>=1.0
-torch==1.10.2+cpu
+torch==2.2.0
 annoy>=1.17.0
