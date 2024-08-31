@@ -2,7 +2,7 @@
 streamlit~=1.5.1
 streamlit-drawable-canvas
 clip @ git+https://github.com/openai/CLIP.git
-opencv-python==4.5.5.62
+opencv-python==4.8.1.78
 matplotlib
 pandas>=1.0
 torch==1.10.2+cpu
